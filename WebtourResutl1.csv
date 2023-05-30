@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685446044767,28,LaunchHome-0,200,OK,Thread Group 1-1,text,true,,664,369,1,1,http://192.168.17.1:1080/webTours/index.htm,28,0,21
+1685446044796,1,LaunchHome-2,200,OK,Thread Group 1-1,text,true,,1007,425,1,1,http://192.168.17.1:1080/webTours/header.html,1,0,0
+1685446044798,1,LaunchHome-3,200,OK,Thread Group 1-1,bin,true,,4486,345,1,1,http://192.168.17.1:1080/webTours/images/webtours.png,1,0,0
+1685446044799,1,LaunchHome-4,200,OK,Thread Group 1-1,bin,true,,898,344,1,1,http://192.168.17.1:1080/webTours/images/hp_logo.png,1,0,0
+1685446044800,60,LaunchHome-5,200,OK,Thread Group 1-1,text,true,,1025,436,1,1,http://192.168.17.1:1080/cgi-bin/welcome.pl?signOff=true,59,0,0
+1685446044863,56,LaunchHome-6,200,OK,Thread Group 1-1,text,true,,1659,464,1,1,http://192.168.17.1:1080/WebTours/home.html,56,0,0
+1685446044920,50,LaunchHome-7,200,OK,Thread Group 1-1,text,true,,1749,468,1,1,http://192.168.17.1:1080/cgi-bin/nav.pl?in=home,48,0,0
+1685446044971,57,LaunchHome-8,200,OK,Thread Group 1-1,bin,true,,976,376,1,1,http://192.168.17.1:1080/WebTours/images/mer_login.gif,57,0,0
+1685446044719,254,LaunchHome,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,12464,3227,1,1,null,251,55,21

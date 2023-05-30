@@ -1,0 +1,7 @@
+departCity,departDate,arriveCity,returnDate
+Paris,05/21/2023,Denver,05/27/2023
+Denver,05/22/2023,London,05/28/2023
+London,05/23/2023,Seattle,05/29/2023
+Seattle,05/24/2023,Zurich,05/30/2023
+Sydney,05/25/2023,Paris,05/31/2023
+Zurich,05/26/2023,Denver,06/01/2023
